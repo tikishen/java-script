@@ -4,7 +4,7 @@
 #### It has a 800 x 500 drawing surface
 
 #### Use mouse as a pen to draw a circle at the position of the mouse. As the mouse moves, so should the pen.   
-Additional controls are:
+Additional controls are: <br>
 "b" - change pen color to blue
 "g" - change pen color to green
 "r" - change pen color to red
